@@ -8,6 +8,7 @@ Hope you like my project !! And Note that I haven't made it responsive it only w
   - HTML - Hyper Text Markup Language
   - CSS - Cascadeing Spread Sheet
   - CSS Flex Box
+  - CSS Grid
 
 ## Demo
 
