@@ -1,7 +1,7 @@
 #  Website Hosting Website [![Justise](https://img.shields.io/badge/Template-Project-red)](http://www.gnu.org/licenses/agpl-3.0) [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
 
 This is basically a pretty large website haveing a standard of 5 pages for an imaginary web hosting website previously i have made the another web hosting website which was a one pager. The project is made in HTML/CSS.
-Hope you like my project !! And Note that I haven't made it responsive it only works in laptop screen if you are useing desktop please zomm in or out that might work .
+Hope you like my project !! And Note that I have made it responsive it only works in laptop screen and mobile screen that is from 370px to 480px
 
 
 ## 🛠 Technologies Used
@@ -10,9 +10,13 @@ Hope you like my project !! And Note that I haven't made it responsive it only w
   - CSS Flex Box
   - CSS Grid
 
-## Demo
+## Demo for Laptop Screen
 
 https://user-images.githubusercontent.com/108281031/181264526-121daa82-94a2-47a5-996e-8e4d7a1f1a2e.mp4
+
+## Demo For Mobile Screen
+https://user-images.githubusercontent.com/108281031/185438725-967294ba-6548-4534-b0f2-1098f59b1ceb.mp4
+
 
 ## Run Locally
 
